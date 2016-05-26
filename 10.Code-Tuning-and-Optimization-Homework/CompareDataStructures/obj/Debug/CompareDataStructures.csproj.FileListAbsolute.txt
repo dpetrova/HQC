@@ -1,0 +1,5 @@
+C:\Users\Daniela\Documents\Visual Studio 2013\Projects\06.QPC_projects\10.Code-Tuning-and-Optimization-Homework\CompareDataStructures\bin\Debug\CompareDataStructures.exe.config
+C:\Users\Daniela\Documents\Visual Studio 2013\Projects\06.QPC_projects\10.Code-Tuning-and-Optimization-Homework\CompareDataStructures\bin\Debug\CompareDataStructures.exe
+C:\Users\Daniela\Documents\Visual Studio 2013\Projects\06.QPC_projects\10.Code-Tuning-and-Optimization-Homework\CompareDataStructures\bin\Debug\CompareDataStructures.pdb
+C:\Users\Daniela\Documents\Visual Studio 2013\Projects\06.QPC_projects\10.Code-Tuning-and-Optimization-Homework\CompareDataStructures\obj\Debug\CompareDataStructures.exe
+C:\Users\Daniela\Documents\Visual Studio 2013\Projects\06.QPC_projects\10.Code-Tuning-and-Optimization-Homework\CompareDataStructures\obj\Debug\CompareDataStructures.pdb

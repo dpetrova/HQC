@@ -1,0 +1,6 @@
+C:\Users\Daniela\Documents\PROGRAMMING\Level Fundamentals\10.Code-Tuning-and-Optimization-Homework\PerformanceOfOperations\bin\Debug\PerformanceOfOperations.exe.config
+C:\Users\Daniela\Documents\PROGRAMMING\Level Fundamentals\10.Code-Tuning-and-Optimization-Homework\PerformanceOfOperations\bin\Debug\PerformanceOfOperations.exe
+C:\Users\Daniela\Documents\PROGRAMMING\Level Fundamentals\10.Code-Tuning-and-Optimization-Homework\PerformanceOfOperations\bin\Debug\PerformanceOfOperations.pdb
+C:\Users\Daniela\Documents\PROGRAMMING\Level Fundamentals\10.Code-Tuning-and-Optimization-Homework\PerformanceOfOperations\obj\Debug\PerformanceOfOperations.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Documents\PROGRAMMING\Level Fundamentals\10.Code-Tuning-and-Optimization-Homework\PerformanceOfOperations\obj\Debug\PerformanceOfOperations.exe
+C:\Users\Daniela\Documents\PROGRAMMING\Level Fundamentals\10.Code-Tuning-and-Optimization-Homework\PerformanceOfOperations\obj\Debug\PerformanceOfOperations.pdb

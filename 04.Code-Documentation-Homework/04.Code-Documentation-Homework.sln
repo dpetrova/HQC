@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.StringExtensions", "01.StringExtensions\01.StringExtensions.csproj", "{55BDF1C2-BF0B-438C-A146-07650C00A2FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ClashOfKings", "02.ClashOfKings\02.ClashOfKings.csproj", "{19A38FC9-B755-4089-AC15-72116691990D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55BDF1C2-BF0B-438C-A146-07650C00A2FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BDF1C2-BF0B-438C-A146-07650C00A2FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BDF1C2-BF0B-438C-A146-07650C00A2FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55BDF1C2-BF0B-438C-A146-07650C00A2FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A38FC9-B755-4089-AC15-72116691990D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A38FC9-B755-4089-AC15-72116691990D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A38FC9-B755-4089-AC15-72116691990D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A38FC9-B755-4089-AC15-72116691990D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
